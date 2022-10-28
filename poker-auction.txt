@@ -14,6 +14,17 @@ P.S. также можно использовать комбинации мад�
 
 
 
+Special rules for 2 players (found on Stackexchange)
+
+All players are dealt 2 cards each facedown. They have a fixed amount of money (say 1000 pts.) A card is opened from the deck, and auctioned to the highest bidder. Minimum bid is 50 pts.
+(unless you have less than 50, in which case you can go all-in as a bid) and any increment of 10 is allowed. Bidding is in cyclic order starting with the left of the dealer (which changes every game),
+and a person can place upto 3 bids. You may place a bid that is impossible to beat. Players who lose an auction get back their money, the winner loses money equal to his bid. This process is repeated
+until every player has 5 cards (or the deck finishes, and it is a draw). If all but one player have 5 cards, and 5 cards have been 'passed out of the game' with no bids, this last player is obliged
+to take the next card(s) till he has 5 cards. Person with the best hand (poker-style) wins the game. In the rare occurence that the first 5 'passed out cards' form a better hand than every player,
+it is a draw.
+
+
+
 This work is licensed under the terms of Creative Commons Zero v1.0 Universal license
 
 https://creativecommons.org/publicdomain/zero/1.0/legalcode
